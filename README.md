@@ -21,4 +21,3 @@
 [![](https://visitcount.itsvg.in/api?id=fuchstech&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4haup1fihoxp62o864qpu0dut&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=4haup1fihoxp62o864qpu0dut&redirect=true)

@@ -1,5 +1,5 @@
 💫 About Me:
-🤖 I’m currently working on Robotics<br>🌱 I’m currently learning control algorithms <br>⚡ I am a professional zip-tie technician on underwater robotics
+🤖 I’m currently working on algorithmic trade<br>⚡ I am a professional zip-tie technician on underwater robotics
 
 
 ## 🌐 Socials:
